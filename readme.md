@@ -309,6 +309,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [VAGAUM - VAGAS DE TRABALHO PARA PROGRAMADORES](https://t.me/vagaumdev)
 
 ### OUTROS 
+- [RPA & IA BRASIL](https://t.me/rpaeiabrasil)
 - [ACESSIBILIDADE NA WEB](https://telegram.me/acessibilidadenaweb)
 - [API Builders BR](https://t.me/apiBuilders)
 - [BITCOIN BRASIL](https://telegram.me/brasilbitcoin )
